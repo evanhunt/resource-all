@@ -24,6 +24,8 @@
 
 [JavaScript 模板引擎概述](http://web.jobbole.com/84420/)
 
+[了解 JavaScript 应用程序中的内存泄漏](https://www.ibm.com/developerworks/cn/web/wa-jsmemory/)
+
 [How to catch JavaScript Errors with window.onerror (even on Chrome and Firefox)](https://danlimerick.wordpress.com/2014/01/18/how-to-catch-javascript-errors-with-window-onerror-even-on-chrome-and-firefox/)
 
 [How do I get started with Node.js [closed]
@@ -52,6 +54,24 @@
 [w3cplus@再聊移动端页面的适配](https://www.w3cplus.com/css/vw-for-layout.html)
 
 [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html)
+
+[HTML5 Video Events and API](https://www.w3.org/2010/05/video/mediaevents.html)
+
+[video标签在不同平台上的事件表现差异分析](http://imweb.io/topic/560a6015c2317a8c3e086207)
+
+[Top 3 H.265/HEVC Encoding and Decoding Tools](http://www.brorsoft.com/knowledge/best-h265-encoder-and-decoder-review.html)
+
+[ffmpeg](http://www.ffmpeg.org/documentation.html)
+
+[How to reduce the size of mp3s in linux?](http://stackoverflow.com/questions/17885946/how-to-reduce-the-size-of-mp3s-in-linux)
+
+[fontsquirrel](https://www.fontsquirrel.com/tools/webfont-generator)
+
+[webp docs](https://developers.google.com/speed/webp/docs/using)
+
+[WebPJS](http://webpjs.appspot.com/)
+
+[web-audio-on-ios](https://paulbakaus.com/tutorials/html5/web-audio-on-ios/)
 
 # @performance
 
@@ -132,3 +152,10 @@
 [对web数据可视化的一些理解](https://segmentfault.com/a/1190000009385954)
 
 [SVG 新司机开车指南](http://web.jobbole.com/91027/)
+
+# @音轨
+[AudioContext createScriptProcessor](https://developer.mozilla.org/en-US/docs/Web/API/AudioContext/createScriptProcessor)
+[AudioContext createBufferSource](https://developer.mozilla.org/en-US/docs/Web/API/AudioContext/createBufferSource)
+[Real time PCM output in Javascript and Web Audio API](http://papers.traustikristjansson.info/?p=486)
+[The Browser Sound Engine Behind Touch Pianist](http://www.earslap.com/article/the-browser-sound-engine-behind-touch-pianist.html)
+[Custom Audio Effects in JavaScript with the Web Audio API](http://noisehack.com/custom-audio-effects-javascript-web-audio-api/)
